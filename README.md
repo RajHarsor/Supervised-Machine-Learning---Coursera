@@ -10,6 +10,10 @@ This repository documents the coursework that I went through during my time in t
 
 **End Date:** 1/1/2023
 
+## Link to the Course
+
+https://www.coursera.org/learn/machine-learning/home/week/1
+
 ## Rationale for doing the Course
 
 When we do start getting data, we will be using machine learning via Tensorflow for behavioral applications and possibly computational neuroscience applications. Knowing the basics of machine learning might be helpful in understanding data and how to approach it.
