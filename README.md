@@ -2,6 +2,8 @@
 
 This repository documents the coursework that I went through during my time in the Oldenburg Lab using the Supervised Machine Learning Course found on Coursera. The course was recommended to me by Ian when I was sick with COVID and I set out to complete this course along with the labs. The course is intended to be 3 weeks in length.
 
+The Labs folder contains the labs for the course sorted by the week. Open these lab notebooks up in Juypter Notebooks of Google Collab Notebooks. The Notes section contains notes that I wrote down during the course. I recommened watching the course but I do feel the notes are comprehensive enough in which you can just go through them and get the main ideas.
+
 ## Dates and Difficulty
 
 **Difficulty:** Easy
